@@ -26,7 +26,7 @@
 
 ## 🚀 Projects
 
-🔹 [**DeepSide - A Deep Learning Framework**](https://github.com/druvath-09/DeepSide-A-Deep-Learning-Framework)  
+🔹 [**DeepSide - A Deep Learning Framework**](https://github.com/druvath-09/deepside_deeplearning_approach_to_predict-_side_effect_prediction)  
 *Custom-built framework inspired by PyTorch & TensorFlow for training and testing deep learning models.*  
 
 🔹 [**Restaurant Recommendation System (Hybrid Method)**](https://github.com/druvath-09/Restaurant_Recommendation_System_Based_On_Reviews_Using_Hybrid_Method)  
