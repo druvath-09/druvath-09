@@ -8,7 +8,7 @@
 🎓 B.Tech in Information Technology (2025) with a strong foundation in **Machine Learning, Backend Development, and Data Structures**.  
 💡 Passionate about building **scalable applications** and applying ML for **predictive analytics & automation**.  
 🎯 Career Goal: To specialize in **AI-powered applications** and **scalable backend systems**.  
-📍 Based in India | Open to relocate.  
+📍 Based in Hyderabad,India | Open to relocate.  
 
 ---
 
