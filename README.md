@@ -47,7 +47,7 @@
 
 ## 📫 Connect with Me
 💼 [LinkedIn](https://www.linkedin.com/in/druvath-kumar)  
-📧 Email: **gantadruvathkumar@gmail.com**  
+📧 Email: **gantadruvathkumar2004@gmail.com**  
 
 ---
 
