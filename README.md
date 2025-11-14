@@ -46,7 +46,7 @@
 ---
 
 ## 📫 Connect with Me
-💼 [LinkedIn](https://www.linkedin.com/in/druvath-kumar)  
+💼 [LinkedIn](https://www.linkedin.com/in/ganta-druvath-kumar20102004/)  
 📧 Email: **gantadruvathkumar2004@gmail.com**  
 
 ---
